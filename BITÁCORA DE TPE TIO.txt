@@ -1,0 +1,7 @@
+TPE TIO BITÁCORA DE PROCESO 
+      El día 26/05. Se creó un repositorio desde Git, y se invitó a colaborar a todas las integrantes del grupo. A continuación, también se creó un tablero en Trello y se invitó a trabajar colaborativamente en el grupo de WhatsApp.
+      Se clonará el repositorio para poder comenzar a trabajar y en el tablero de Trello ya se organizaron las listas y las etiquetas. 
+      El 28/05, se subió el primer documento de texto para trabajar colaborativamente. Se están preparando el resto de los archivos de distintas extensiones.
+      El 18/06 se están preparando para subir los archivos de php, de texto, y css.
+
+
